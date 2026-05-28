@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://github.com/particle-box/Purrfect/blob/dev/banner.jpg" alt="Purrfect" width="100%"/>
+  <img src="https://github.com/curious-freak/Purrfect/blob/dev/banner.jpg" alt="Purrfect" width="100%"/>
 </div>
 
 
@@ -12,9 +12,9 @@
 
 <br>
 
-[![Release](https://img.shields.io/github/v/release/particle-box/Purrfect?include_prereleases&style=for-the-badge&color=cba6f7&labelColor=1e1e2e)](https://github.com/particle-box/Purrfect/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/particle-box/Purrfect/total?style=for-the-badge&color=f5bde6&labelColor=1e1e2e)](https://github.com/particle-box/Purrfect/releases)
-[![License](https://img.shields.io/badge/License-GPL_3.0-f5a97f?style=for-the-badge&labelColor=1e1e2e)](https://github.com/particle-box/Purrfect/blob/dev/LICENSE)
+[![Release](https://img.shields.io/github/v/release/curious-freak/Purrfect?include_prereleases&style=for-the-badge&color=cba6f7&labelColor=1e1e2e)](https://github.com/curious-freak/Purrfect/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/curious-freak/Purrfect/total?style=for-the-badge&color=f5bde6&labelColor=1e1e2e)](https://github.com/curious-freak/Purrfect/releases)
+[![License](https://img.shields.io/badge/License-GPL_3.0-f5a97f?style=for-the-badge&labelColor=1e1e2e)](https://github.com/curious-freak/Purrfect/blob/dev/LICENSE)
 
 [Installation](#installation) • [Features](#features) • [Build](#build-from-source) • [Community](#community)
 
@@ -223,7 +223,7 @@ Extensibility through custom scripts.
 ## Installation
 
 The guide is no longer needed!  
-Just download and install Purrfect from [here](https://github.com/particle-box/Purrfect/releases). The app automatically detects your device type and applies the appropriate setup.
+Just download and install Purrfect from [here](https://github.com/curious-freak/Purrfect/releases). The app automatically detects your device type and applies the appropriate setup.
 
 <br>
 
